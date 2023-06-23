@@ -1,0 +1,15 @@
+.phonebook {
+  margin: 50px;
+}
+
+.phonebook__title {
+  margin-bottom: 10px;
+
+  font-size: 50px;
+}
+
+.phonebook__contactsTitle {
+  margin-bottom: 5px;
+
+  font-size: 30px;
+}

@@ -1,0 +1,38 @@
+.phonebookForm {
+  width: 500px;
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.phonebookForm__label {
+  height: 25px;
+
+  font-size: 20px;
+}
+
+.phonebookForm__input {
+  margin-left: 20px;
+  height: 100%;
+
+  font-size: 16px;
+}
+
+.phonebookForm__btn {
+  margin-left: auto;
+  margin-right: auto;
+
+  height: 40px;
+  width: 150px;
+
+  font-size: 20px;
+}
+
+.phonebookForm__btn :hover {
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.67);
+}
